@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/JAndolino/0d7c12cb-fba8-423c-8927-8a73a39cc873/52e07a9e-8040-421e-b122-e64fd948e23e/_apis/work/boardbadge/0b8ffc02-3746-4f55-bf0a-3be2f8095fd2)](https://dev.azure.com/JAndolino/0d7c12cb-fba8-423c-8927-8a73a39cc873/_boards/board/t/52e07a9e-8040-421e-b122-e64fd948e23e/Microsoft.RequirementCategory)
 # Cloudtest
